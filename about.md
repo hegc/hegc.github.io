@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About
+title: 关于我
 permalink: /about/
 ---
 
-Some information about you!
+![_config.yml]({{ site.baseurl }}/images/my.gif)
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+不想只当程序员，我要成为人工智障工程师。
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email](mailto:dheguocai@gmail.com)
