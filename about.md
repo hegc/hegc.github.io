@@ -7,7 +7,7 @@ permalink: /about/
 ![_config.yml]({{ site.baseurl }}/images/my.gif)
 
 ### More Information
-不想只当程序员，我要成为人工智障工程师。
+不想只当程序员，我要成为人工智障攻城师。
 
 ### Contact me
 
